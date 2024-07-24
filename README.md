@@ -11,5 +11,5 @@ Hi, I'm Khate Castelo, an individual exploring and developing my skillset as a y
 - MongoDB, SQL
 - Java programming
 
-## Connect 🍵
+## Connect ☕
 - [My LinkedIn](https://www.linkedin.com/in/khate-ciara-castelo/)
