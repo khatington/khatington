@@ -1,6 +1,12 @@
+<!---
 <div align="center">
   <img src="https://github.com/user-attachments/assets/b680fc4a-8054-4f79-b88f-0a6ed7516023">
 </div>
+--->
+![IMG_0037](https://github.com/user-attachments/assets/24e49f12-eae7-462c-8438-bc4fcd388fb7)
+
+  
+
 
 
 ## Welcome to my GitHub 🫧
