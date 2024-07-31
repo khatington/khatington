@@ -9,7 +9,7 @@
 ![Untitled40_20240726195443](https://github.com/user-attachments/assets/b9446ccb-a804-4fe9-9277-8d56b225caf5)
 --->
 
-<img src="https://github.com/user-attachments/assets/6c720524-342b-4aad-8f64-cdd8e6909675">
+<img src="https://github.com/user-attachments/assets/27cda06a-2b07-4f3d-adf6-c9c05f9c98c8">
 
 
 ## Welcome to my GitHub 🫧
