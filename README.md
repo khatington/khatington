@@ -14,3 +14,4 @@ Hi, I'm Khate Castelo, an individual exploring and developing my skillset as a y
 
 ## Connect ☕
 - [My LinkedIn](https://www.linkedin.com/in/khate-ciara-castelo/)
+- [My Portfolio](https://khatecastelo.carrd.co/)
